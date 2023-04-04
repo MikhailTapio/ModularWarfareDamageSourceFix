@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "committee.nova.mwdmgsrcfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinPacketExpGunFire"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mwdmgsrcfix.mixin-refmap.json",
+  "minVersion": "0.8"
+}
